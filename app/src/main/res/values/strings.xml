@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">colorFinder2point0</string>
+    <string name="action_stores">Stored</string>
+    <string name = "action_saves">Save Current</string>
+</resources>

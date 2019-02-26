@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerItems">
+        <item>saved1</item>
+        <item>saved2</item>
+        <item>saved3</item>
+        spinnerEnteries</string-array>
+
+</resources>
